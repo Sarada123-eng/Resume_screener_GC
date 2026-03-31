@@ -1,0 +1,15 @@
+Job Title: Backend Developer
+
+We are looking for a Backend Developer with strong software engineering skills.
+
+Required Skills: Python or Java, REST APIs, SQL, PostgreSQL, Git, Docker
+
+Minimum Experience: 2 years
+
+Responsibilities:
+- Design and build REST APIs
+- Write clean maintainable code
+- Work with databases
+- Collaborate with frontend team
+
+Nice to have: Kubernetes, Redis, microservices, AWS

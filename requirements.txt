@@ -1,0 +1,6 @@
+pathway
+groq
+python-dotenv
+pymupdf
+streamlit
+requests

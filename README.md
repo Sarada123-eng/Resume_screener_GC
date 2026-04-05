@@ -104,8 +104,7 @@ Resume_screener_GC/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/resume-screener.git
-cd resume-screener
+git clone https://github.com/Sarada123-eng/Resume_screener_GC.git
 ```
 
 ### 2. Create and activate virtual environment

@@ -1,2 +1,10 @@
 .env
 venv/
+processed/
+output/
+data/resumes/*
+!data/resumes/.gitkeep
+data/jobs/
+__pycache__/
+*.pyc
+*.pyo

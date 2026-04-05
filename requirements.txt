@@ -1,6 +1,19 @@
-pathway
-groq
-python-dotenv
-pymupdf
-streamlit
-requests
+# ── Core Streaming Engine ─────────────────────────────────────────────────────
+pathway==0.14.0
+
+# ── PDF Extraction ────────────────────────────────────────────────────────────
+PyMuPDF==1.24.0
+
+# ── LLM & Embeddings ─────────────────────────────────────────────────────────
+groq==0.11.0
+sentence-transformers==3.0.1
+
+# ── Pathway LLM Extras (VectorStoreServer) ────────────────────────────────────
+unstructured==0.14.0
+
+# ── UI ────────────────────────────────────────────────────────────────────────
+streamlit==1.35.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+requests==2.31.0

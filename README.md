@@ -3,11 +3,6 @@
 
 A real-time AI-powered resume screening system that continuously ingests resumes and job descriptions, dynamically ranks candidates using hybrid semantic search, and explains every decision in plain English — with zero manual reprocessing.
 
----
-
-## 📽️ Demo Video
-
-> [Insert demo video link here]
 
 ---
 
@@ -275,16 +270,6 @@ All pipeline events are logged to `output/pipeline.log`:
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| [Name 1] | [Role] |
-| [Name 2] | [Role] |
-| [Name 3] | [Role] |
-| [Name 4] | [Role] |
-
----
 
 ## 📚 References
 
